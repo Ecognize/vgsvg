@@ -1,0 +1,6 @@
+[submodule "thirdparty/yxml"]
+	path = thirdparty/yxml
+	url = git://g.blicky.net/yxml.git
+[submodule "thirdparty/ShivaVG"]
+	path = thirdparty/ShivaVG
+	url = git@github.com:Quoturnix/ShivaVG.git
